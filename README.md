@@ -24,7 +24,7 @@ This code utilizes the ZED Camera along with OpenCV and pyzbar libraries to crea
    ```bash
    cd ZED-QR-Code-Scanner
    ```
-3. ** Run the Code:**
+3. **Run the Code:**
    ```bash
    python qr_scanner.py
    ```
