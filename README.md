@@ -12,6 +12,7 @@ This code utilizes the ZED Camera along with OpenCV and pyzbar libraries to crea
 2. **Install Python Dependencies:**
    - Install the required Python libraries using pip:
      ```bash
+     sudo apt-get install libzbar0
      pip install pyzed pyzbar opencv-python
      ```
 
